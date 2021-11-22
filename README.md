@@ -6,4 +6,4 @@ Here we have built a Convolutional Neural Network (CNN) based U-Net architecture
 
 ![](download.png)
 
-In the above image, first column shows the actual image of testing dataset, second column shows the ideal segmentation which should be performned on the image and third column shows the segmentation result which we got from our model. Our model decently segmented out roads, footpaths, trees and sky but face difficulty with smaller objects like traffic signals, cycles, pedestrians etc. 
+In the above image, first column shows the actual image of testing dataset, second column shows the ideal segmentation which should be performned on the image and third column shows the segmentation result which we got from our model. Our model decently segmented out roads, footpaths, trees, cars and sky but face difficulty with smaller objects like traffic signals, cycles, pedestrians etc. 
